@@ -16,12 +16,12 @@
 title: Wonbin Lee
 email: wblee800@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Game Programmer
-baseurl: "/wblee" # the subpath of your site, e.g. /blog
-url: "https://wblee800.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  An inarguably well-designed Jekyll theme.
+baseurl: "/hitchens" # the subpath of your site, e.g. /blog
+url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: wblee800
-github_username:  wblee800
+github_username: wblee800
 
 # Build settings
 markdown: kramdown
