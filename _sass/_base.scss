@@ -136,25 +136,32 @@ figcaption {
 }
 
 .site-credits {
-  opacity: .7;
   margin: 0 auto 2em;
   padding: 0 2em;
   text-align: center;
-}
 
-.site-credits {
-  small & {
-  > a {
-      text-decoration-line: none;
-    }
+  @media print {
+    display: none;
   }
 }
 
-/* 
-.site-credits small >a{
-  text-decoration-line: none;
+.outward-links {
+  margin: 0 auto;
+  padding: 0 2em;
+  text-align: center;
+
+  @media print {
+    display: none;
+  }
+  & li {
+    display: inline-block;
+  }
+  & li:not(:last-child)::after {
+    content: "|";
+    margin: .5ex;
+    margin-left: 1ex;
+  }
 }
-*/
 
 .skip-navigation {
   background: $brand-color;
