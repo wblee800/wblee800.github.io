@@ -142,9 +142,19 @@ figcaption {
   text-align: center;
 }
 
+.site-credits {
+  small & {
+  > a {
+      text-decoration-line: none;
+    }
+  }
+}
+
+/* 
 .site-credits small >a{
   text-decoration-line: none;
 }
+*/
 
 .skip-navigation {
   background: $brand-color;
