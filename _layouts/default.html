@@ -6,9 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title font-family="Pretendard-Medium">{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+    <title style="font-family:Pretendard-Medium;">{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
 
-    {% if site.description %}<meta name="description" content="{{ site.description }} font-family="Pretendard-Medium"">{% endif %}  
+    {% if site.description %}<meta name="description" content="{{ site.description }}" style="font-family:Pretendard-Medium;">{% endif %}  
 
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
 
