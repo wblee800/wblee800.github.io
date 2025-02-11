@@ -60,7 +60,7 @@ nav {
   /* justify-content: space-between; */
 }
 
-nav p a {
+nav > ul > li {
   margin-right: 30rem;
   font-size: 1.25rem;
   /* removes the link underline */
@@ -69,7 +69,7 @@ nav p a {
   color: var(--main-text-color);
 }
 
-nav p a:hover {
+nav > ul > li > a:hover {
   /* add underscores while hovering */
   text-decoration: underline;
 }
