@@ -91,9 +91,10 @@ nav ul li a {
 
 main {
   display: flex;
-  /* 글자 수 기준으로 텍스트 길이를 제한 */
+  /* limits text length by character count */
   max-width: 100ch;
-  /* margin을 auto로 하면 가운데 정렬이 된다. auto가 뭐길래 화면을 줄이거나 늘여도 가운데로 크기가 정렬될까?*/
+  /* If you set margin to auto, it will be centered. 
+  What is auto, and why is it still centered when the screen is shrunk or stretched? */
   margin: 0 auto;
   padding: 5rem 13rem;
   font-size: 1.25rem;
