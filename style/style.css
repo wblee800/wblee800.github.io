@@ -101,8 +101,9 @@ main {
 }
 
 aside {
+  height: 1rem;
   position: sticky;
-  top: 20px;
+  top: 7.7rem;
 }
 
 aside ul {
