@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠 Projects  
+## 🚀 Projects  
 
 ### **PioneerX**  
 **Web Frontend Engineer**  
@@ -56,18 +56,18 @@
 
 ---
 
-## 🎓 Education  
-
-**The Korean Academic Credit Bank System**  
-🎓 *B.E., Computer Engineering* | *GPA: 4.05/4.5*  
-📍 *Seoul, Korea* | *Feb. 2020*  
-
----
-
 ## 🛠 Skills  
 
 - **Languages**: JavaScript, TypeScript, Python  
 - **Front-end**: React, styled-components  
 - **Back-end**: Django, Node.js  
 - **AI & ML**: Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama  
-- **Tools**: Git, VSCode, Visual Studio, Docker  
+- **Tools**: Git, VSCode, Visual Studio, Docker
+
+---
+
+## 🎓 Education  
+
+**The Korean Academic Credit Bank System**  
+🎓 *B.E., Computer Engineering* | *GPA: 4.05/4.5*  
+📍 *Seoul, Korea* | *Feb. 2020*  
