@@ -9,7 +9,7 @@
 
 ### **ERU Design**  
 **Administrative Assistant**  
-📍 *Seoul, Korea* | *Oct. 2022 – May 2024*  
+📍 *Seoul, Korea* | *Oct. 2022 – May 2024*
 
 - Managed administrative tasks and implemented automation to boost efficiency.  
 - **Task Automation**: Identified repetitive administrative tasks and implemented automated solutions, significantly reducing manual workload.  
@@ -17,7 +17,7 @@
 
 ### **Republic of Korea Navy**  
 **SOC Analyst**  
-📍 *Gyeryong, Korea* | *Aug. 2020 – Apr. 2022*  
+📍 *Gyeryong, Korea* | *Aug. 2020 – Apr. 2022*
 
 - Detected, analyzed, and responded to cybersecurity threats to protect naval networks.  
 - **Network Access Control**: Managed security settings to prevent unauthorized access.  
@@ -31,7 +31,7 @@
 
 ### **PioneerX**  
 **Web Frontend Engineer**  
-📍 *Canada* | *Dec. 2024 – Jan. 2025*  
+📍 *Canada* | *Dec. 2024 – ongoing*
 
 - **PioneerX** is a web service that matches users' skills to jobs, recommends suitable immigration programs, and connects them with social networking opportunities based on their hobbies.  
 - **Implemented Key Features**: Designed and integrated job-matching tools, immigration guidance, and social networking recommendations.  
@@ -40,7 +40,7 @@
 
 ### **RISKOUT**  
 **Web Frontend Engineer**  
-📍 *Korea* | *Aug. 2022 – Oct. 2022*  
+📍 *Korea* | *Aug. 2022 – Oct. 2022*
 
 - **RISKOUT** is an AI service for detecting threats and assessing cybersecurity risks in real-time.  
 - **Connected Frontend to Backend**: Ensured seamless communication between the user interface and server, enabling real-time updates.  
@@ -51,7 +51,7 @@
 
 ## 🏆 Awards  
 
-**Minister of National Defense Republic of Korea Award**  
+**Minister of National Defense Republic of Korea Award**
 🏅 *One of 6 Software Engineers* | *Korea* | *Nov. 2021*  
 
 ---
@@ -68,6 +68,6 @@
 
 ## 🎓 Education  
 
-**The Korean Academic Credit Bank System**  
-🎓 *B.E., Computer Engineering* | *GPA: 4.05/4.5*  
-📍 *Seoul, Korea* | *Feb. 2020*  
+**The Korean Academic Credit Bank System**
+🎓 *B.E., Computer Engineering* | *GPA: 4.05/4.5*
+📍 *Seoul, Korea* | *Feb. 2020*
