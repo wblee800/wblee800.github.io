@@ -52,7 +52,7 @@
 ## 🏆 Awards  
 
 **Minister of National Defense Republic of Korea Award**
-🏅 *One of 6 Software Engineers* | *Korea* | *Nov. 2021*  
+🏅 *South Korea* | *Nov. 2021*  
 
 ---
 
