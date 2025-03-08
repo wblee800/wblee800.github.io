@@ -5,25 +5,25 @@
 
 ---
 
-## 🏢 Professional Experiences  
+## 🏢 Professional Experience  
 
 ### **ERU Design**  
 **Administrative Assistant**  
-📍 *Seoul, Korea* | *Oct. 2022 – May 2024*
+📍 *South Korea* | *Oct. 2022 – May 2024*
 
 - Managed administrative tasks and implemented automation to boost efficiency.  
-- **Task Automation**: Identified repetitive administrative tasks and implemented automated solutions, significantly reducing manual workload.  
-- **Process Optimization**: Streamlined internal workflows by deploying digital automation tools, enhancing efficiency and data accuracy.  
+- Identified repetitive administrative tasks and implemented automated solutions, significantly reducing manual workload.  
+- Streamlined internal workflows by deploying digital automation tools, enhancing efficiency and data accuracy.  
 
 ### **Republic of Korea Navy**  
 **SOC Analyst**  
-📍 *Gyeryong, Korea* | *Aug. 2020 – Apr. 2022*
+📍 *South Korea* | *Aug. 2020 – Apr. 2022*
 
 - Detected, analyzed, and responded to cybersecurity threats to protect naval networks.  
-- **Network Access Control**: Managed security settings to prevent unauthorized access.  
-- **Traffic Monitoring**: Identified and blocked potential cyber threats in real time.  
-- **Security Tool Management**: Deployed cybersecurity tools for threat detection and prevention.  
-- **System Reliability**: Maintained server room conditions to ensure stable operations.  
+- Managed security settings to prevent unauthorized access.  
+- Identified and blocked potential cyber threats in real time.  
+- Deployed cybersecurity tools for threat detection and prevention.  
+- Maintained server room conditions to ensure stable operations.  
 
 ---
 
@@ -40,12 +40,12 @@
 
 ### **RISKOUT**  
 **Web Frontend Engineer**  
-📍 *Korea* | *Aug. 2022 – Oct. 2022*
+📍 *South Korea* | *Aug. 2022 – Oct. 2022*
 
-- **RISKOUT** is an AI service for detecting threats and assessing cybersecurity risks in real-time.  
-- **Connected Frontend to Backend**: Ensured seamless communication between the user interface and server, enabling real-time updates.  
-- **Enhanced User Experience**: Designed intuitive navigation and layout to make security insights easily accessible.  
-- **Version Upgrades**: Contributed to multiple releases, improving functionality, fixing bugs, and refining UI/UX across versions *1.0.0, 1.1.0, and 1.2.0.*  
+- An AI service for detecting threats and assessing cybersecurity risks in real-time.  
+- Ensured seamless communication between the user interface and server, enabling real-time updates.  
+- Designed intuitive navigation and layout to make security insights easily accessible.  
+- Contributed to multiple releases, improving functionality, fixing bugs, and refining UI/UX across versions *1.0.0, 1.1.0, and 1.2.0.*  
 
 ---
 
@@ -62,12 +62,11 @@
 - **Front-end**: React, styled-components  
 - **Back-end**: Django, Node.js  
 - **AI & ML**: Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama  
-- **Tools**: Git, VSCode, Visual Studio, Docker
 
 ---
 
 ## 🎓 Education  
 
 **The Korean Academic Credit Bank System**
-🎓 *B.E., Computer Engineering* | *GPA: 4.05/4.5*
-📍 *Seoul, Korea* | *Feb. 2020*
+🎓 *B.E. in Computer Engineering* | *GPA: 4.05/4.5*
+📍 *South Korea* | *Feb. 2020*
