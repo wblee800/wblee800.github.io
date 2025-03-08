@@ -15,7 +15,7 @@
 - Used Google Maps for location-based services and other APIs to enhance user experience.
 
 ### **ERU Design**
-**Administrative Assistant** 📍 *South Korea* | *Oct. 2022 – May 2024*
+**Software Engineer** 📍 *South Korea* | *Oct. 2022 – May 2024*
 <br> Managed administrative tasks and implemented automation to boost efficiency.
 - Identified repetitive administrative tasks and implemented automated solutions, significantly reducing manual workload.  
 - Streamlined internal workflows by deploying digital automation tools, enhancing efficiency and data accuracy.  
