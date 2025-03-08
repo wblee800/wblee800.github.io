@@ -9,7 +9,7 @@
 
 ### **PioneerX**
 **Founder and Full-Stack Engineer** 📍 *Canada* | *Dec. 2024 – present*
-<br> Developed AI-driven personalized immigration, job matching, social network assistant.
+<br> Developed the AI-driven personalized immigration, job matching, social network assistant.
 - Designed and integrated job-matching tools, immigration guidance, and social networking recommendations.  
 - Ensured smooth communication between the user interface and the backend server for real-time data updates.  
 - Used Google Maps for location-based services and other APIs to enhance user experience.
@@ -34,7 +34,7 @@
 
 ### **RISKOUT**  
 **Frontend Engineer** 📍 *South Korea* | *Aug. 2022 – Oct. 2022*
-<br> Developed an AI service for detecting threats and assessing cybersecurity risks in real-time.  
+<br> Developed the AI service for detecting threats and assessing cybersecurity risks in real-time.  
 - Ensured seamless communication between the user interface and server, enabling real-time updates.  
 - Designed intuitive navigation and layout to make security insights easily accessible.  
 - Contributed to multiple releases, improving functionality, fixing bugs, and refining UI/UX across versions *1.0.0, 1.1.0, and 1.2.0.*  
