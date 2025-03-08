@@ -1,6 +1,6 @@
 # Wonbin Lee  
 
-📞 +1 639.998.6091 | ✉️ [wblee800@gmail.com](mailto:wblee800@gmail.com)  
+✉️ [wblee800@gmail.com](mailto:wblee800@gmail.com) | 📞 +1 639.998.6091 |
 🔗 [LinkedIn](https://linkedin.com/in/wblee800) | 🖥 [GitHub](https://github.com/wblee800)  
 
 ---
