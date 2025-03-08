@@ -47,17 +47,17 @@
 
 ---
 
+## 🎓 Education  
+
+**The Korean Academic Credit Bank System**
+🎓 *B.E. in Computer Engineering* | *GPA: 4.05/4.5*
+📍 *South Korea* | *Feb. 2020*
+
+---
+
 ## 🛠 Skills  
 
 - **Languages**: TypeScript, JavaScript, C++, C#, Python
 - **Front-end**: React, Fastify, Tailwind CSS, styled-components
 - **Back-end**: Fastify, Node.js, GraphQL, Django  
 - **AI & ML**: Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama
-
----
-
-## 🎓 Education  
-
-**The Korean Academic Credit Bank System**
-🎓 *B.E. in Computer Engineering* | *GPA: 4.05/4.5*
-📍 *South Korea* | *Feb. 2020*
