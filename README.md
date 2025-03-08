@@ -7,8 +7,17 @@
 
 ## 🏢 Professional Experience  
 
-### **ERU Design**  
-**Administrative Assistant**  
+### **PioneerX**
+**Founder and Full-Stack Engineer**
+📍 *Canada* | *Dec. 2024 – present*
+
+- A web service that matches users' skills to jobs, recommends suitable immigration programs, and connects them with social networking opportunities based on their hobbies. 
+- Designed and integrated job-matching tools, immigration guidance, and social networking recommendations.  
+- Ensured smooth communication between the user interface and the backend server for real-time data updates.  
+- Used Google Maps for location-based services and other APIs to enhance user experience.
+
+### **ERU Design**
+**Administrative Assistant**
 📍 *South Korea* | *Oct. 2022 – May 2024*
 
 - Managed administrative tasks and implemented automation to boost efficiency.  
@@ -16,7 +25,7 @@
 - Streamlined internal workflows by deploying digital automation tools, enhancing efficiency and data accuracy.  
 
 ### **Republic of Korea Navy**  
-**SOC Analyst**  
+**Security Engineer**  
 📍 *South Korea* | *Aug. 2020 – Apr. 2022*
 
 - Detected, analyzed, and responded to cybersecurity threats to protect naval networks.  
@@ -29,17 +38,8 @@
 
 ## 🚀 Projects  
 
-### **PioneerX**  
-**Web Frontend Engineer**  
-📍 *Canada* | *Dec. 2024 – ongoing*
-
-- **PioneerX** is a web service that matches users' skills to jobs, recommends suitable immigration programs, and connects them with social networking opportunities based on their hobbies.  
-- **Implemented Key Features**: Designed and integrated job-matching tools, immigration guidance, and social networking recommendations.  
-- **Connected Frontend to Backend**: Ensured smooth communication between the user interface and the backend server for real-time data updates.  
-- **Integrated External APIs**: Used Google Maps for location-based services and other APIs to enhance user experience.  
-
 ### **RISKOUT**  
-**Web Frontend Engineer**  
+**Frontend Engineer**  
 📍 *South Korea* | *Aug. 2022 – Oct. 2022*
 
 - An AI service for detecting threats and assessing cybersecurity risks in real-time.  
