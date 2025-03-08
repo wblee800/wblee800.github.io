@@ -9,8 +9,7 @@
 ## 🏢 Professional Experience  
 
 ### **PioneerX**
-**Founder and Full-Stack Engineer**
-📍 *Canada* | *Dec. 2024 – present*
+**Founder and Full-Stack Engineer** 📍 *Canada* | *Dec. 2024 – present*
 
 - A web service that matches users' skills to jobs, recommends suitable immigration programs, and connects them with social networking opportunities based on their hobbies. 
 - Designed and integrated job-matching tools, immigration guidance, and social networking recommendations.  
@@ -18,16 +17,14 @@
 - Used Google Maps for location-based services and other APIs to enhance user experience.
 
 ### **ERU Design**
-**Administrative Assistant**
-📍 *South Korea* | *Oct. 2022 – May 2024*
+**Administrative Assistant** 📍 *South Korea* | *Oct. 2022 – May 2024*
 
 - Managed administrative tasks and implemented automation to boost efficiency.  
 - Identified repetitive administrative tasks and implemented automated solutions, significantly reducing manual workload.  
 - Streamlined internal workflows by deploying digital automation tools, enhancing efficiency and data accuracy.  
 
 ### **Republic of Korea Navy**  
-**Security Engineer**  
-📍 *South Korea* | *Aug. 2020 – Apr. 2022*
+**Security Engineer** 📍 *South Korea* | *Aug. 2020 – Apr. 2022*
 
 - Detected, analyzed, and responded to cybersecurity threats to protect naval networks.  
 - Managed security settings to prevent unauthorized access.  
@@ -40,8 +37,7 @@
 ## 🚀 Projects  
 
 ### **RISKOUT**  
-**Frontend Engineer**  
-📍 *South Korea* | *Aug. 2022 – Oct. 2022*
+**Frontend Engineer** 📍 *South Korea* | *Aug. 2022 – Oct. 2022*
 
 - An AI service for detecting threats and assessing cybersecurity risks in real-time.  
 - Ensured seamless communication between the user interface and server, enabling real-time updates.  
@@ -52,8 +48,7 @@
 
 ## 🏆 Awards  
 
-**Minister of National Defense Republic of Korea Award**
-🏅 *South Korea* | *Nov. 2021*  
+**Minister of National Defense Republic of Korea Award** 🏅 *South Korea* | *Nov. 2021*  
 
 ---
 
