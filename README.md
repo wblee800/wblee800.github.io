@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Projects  
+## 🚀 OpenSource Projects  
 
 ### **RISKOUT**  
 **Frontend Engineer** 📍 *South Korea* | *Aug. 2022 – Oct. 2022*
