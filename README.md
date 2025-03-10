@@ -58,6 +58,6 @@
 ## 🛠 Skills  
 
 - **Languages**: TypeScript, JavaScript, C++, C#, Python
-- **Front-end**: React, Fastify, Tailwind CSS, styled-components
-- **Back-end**: Fastify, Node.js, GraphQL, Django  
+- **Front-end**: React, Node.js, Tailwind CSS, styled-components
+- **Back-end**: Fastify, Node.js, GraphQL, Django
 - **AI & ML**: Gemini 2.0 APIs, DeepSeek R1 APIs, Ollama
