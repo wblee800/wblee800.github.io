@@ -1,5 +1,5 @@
 # Wonbin Lee  
-### Full-Stack Engineer
+### Full-Stack AI Engineer
 
 ✉️ [wblee800@gmail.com](mailto:wblee800@gmail.com) | 📞 +1 639.998.6091 | 🔗 [LinkedIn](https://linkedin.com/in/wblee800) | 🖥 [GitHub](https://github.com/wblee800)  
 
@@ -8,7 +8,7 @@
 ## 🏢 Professional Experience  
 
 ### **PioneerX**
-**Founder and Full-Stack Engineer** 📍 *Canada* | *Dec. 2024 – present*
+**Founder and Full-Stack AI Engineer** 📍 *Canada* | *Dec. 2024 – present*
 <br> Developed the AI-driven personalized immigration, job matching, social network assistant.
 - Designed and integrated immigration guidance, job-matching tools, and social networking recommendations.  
 - Ensured smooth communication between the user interface and the backend server for real-time data updates.  
