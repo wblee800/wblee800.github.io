@@ -7,7 +7,7 @@
 
 ## 🏢 Professional Experience  
 
-### **PioneerX**
+### **PioneerY**
 **Founder and Full-Stack AI Engineer** 📍 *Canada* | *Apr. 2025 – present*
 <br> Developed the AI-driven personalized immigration, job matching, social network assistant.
 - Designed and integrated immigration guidance, job-matching tools, and social networking recommendations.  
