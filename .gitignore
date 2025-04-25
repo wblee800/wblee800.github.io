@@ -1,47 +1,37 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
 .DS_Store
-.vscode/*
-!.vscode/extensions.json
-.idea
-*.iml
-*.code-workspace
-.changelog
-.history
+*.pem
+.vscode
 
-node_modules
-.yarn
-package-lock.json
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
-.eslintcache
+# env files
+.env
 
-yarn-error.log
-website/build
-coverage
-.docusaurus
-.cache-loader
-types
-test-website
-test-website-in-workspace
+# vercel
+.vercel
 
-packages/create-docusaurus/lib/
-packages/lqip-loader/lib/
-packages/docusaurus/lib/
-packages/docusaurus-*/lib/*
-packages/eslint-plugin/lib/
-packages/stylelint-copyright/lib/
-
-website/netlifyDeployPreview/*
-website/changelog
-!website/netlifyDeployPreview/index.html
-!website/netlifyDeployPreview/_redirects
-
-website/_dogfooding/_swizzle_theme_tests
-
-CrowdinTranslations_*.zip
-
-website/.cpu-prof
-
-website/i18n/**/*
-#!website/i18n/fr
-#!website/i18n/fr/**/*
-
-.netlify
+# typescript
+*.tsbuildinfo
+next-env.d.ts
